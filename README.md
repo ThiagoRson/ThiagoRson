@@ -33,6 +33,6 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/ThiagoRson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation]([https://github.com/ThiagoRson/ThiagoRson/blob/output/github-contribution-grid-snake.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASnake_can_be_completed.gif&psig=AOvVaw29loWebPCRXFG0NX_ELJbo&ust=1733880855098000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODw39OHnIoDFQAAAAAdAAAAABA_))
+![Snake animation](https://upload.wikimedia.org/wikipedia/commons/5/55/Snake_can_be_completed.gif))
  
 </div>
