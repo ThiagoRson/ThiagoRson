@@ -20,7 +20,7 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://jovemprojeto.com">
+  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://jovemprojeto.com.br">
 </div>
   
   ##
