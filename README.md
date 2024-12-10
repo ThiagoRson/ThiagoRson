@@ -1,4 +1,4 @@
-## Fala pessoal!! eu sou o Thiago Bernardes, criador de conteúdo de programação e tecnologia!
+## Fala pessoal!! eu sou o Thiago Souson, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/ThiagoRson/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagorson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
